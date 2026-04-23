@@ -33,7 +33,7 @@ Diese Seiten enthalten unter Umständen Links zu externen Websites Dritter, auf 
 
 ## Urheberrecht und Lizenz
 
-Die auf diesen Seiten veröffentlichten Inhalte stehen – soweit nicht anders gekennzeichnet – unter einer Creative-Commons-Lizenz (CC BY-NC 4.0). Das bedeutet: Die Inhalte dürfen unter Namensnennung und zu nicht-kommerziellen Zwecken frei genutzt, geteilt und bearbeitet werden. Details zur Lizenz: <https://creativecommons.org/licenses/by-nc/4.0/deed.de>
+Die auf diesen Seiten veröffentlichten Inhalte stehen – soweit nicht anders gekennzeichnet – unter einer Creative-Commons-Lizenz (CC BY-NC-SA 4.0). Das bedeutet: Die Inhalte dürfen unter Namensnennung und zu nicht-kommerziellen Zwecken frei genutzt, geteilt und bearbeitet werden. Bearbeitungen müssen unter denselben Bedingungen weitergegeben werden. Details zur Lizenz: <https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de>
 
 Inhalte Dritter sind als solche gekennzeichnet und unterliegen dem Urheberrecht des jeweiligen Urhebers.
 
