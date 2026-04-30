@@ -9,7 +9,7 @@ Emsdettener Straße 10\
 
 ## Kontakt
 
-E-Mail: impressum.rm6p@posteo.de
+E-Mail: impressum.loyns@posteo.de
 
 ## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
 
