@@ -2,10 +2,10 @@
 
 ## Angaben gemäß § 5 DDG
 
-Florian Loyns  
-c/o [deine ladungsfähige Anschrift]  
-[Straße Hausnr.]  
-[PLZ Ort]
+Florian Loyns
+c/o POSTFLEX PFX-710-711
+Emsdettener Straße 10
+48268 Greven
 
 ## Kontakt
 
