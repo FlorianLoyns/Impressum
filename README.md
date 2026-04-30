@@ -41,6 +41,22 @@ Inhalte Dritter sind als solche gekennzeichnet und unterliegen dem Urheberrecht 
 
 ## Datenschutz
 
-Diese Website verarbeitet keine personenbezogenen Daten. Es werden keine Cookies gesetzt, keine Tracking-Tools eingesetzt und keine Eingaben an Server übertragen. Die Inhalte werden ausschließlich im Browser des Nutzers verarbeitet und verlassen das Gerät nicht.
+### Verarbeitung im Browser
 
-Die Seite wird über GitHub Pages (GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA) ausgeliefert. Beim Aufruf können technisch bedingt Daten (z. B. IP-Adresse, Browsertyp, Zeitpunkt des Zugriffs) in Server-Logs von GitHub verarbeitet werden. Einzelheiten hierzu finden sich in der Datenschutzerklärung von GitHub unter: <https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement>
+Die hier verlinkten Tools verarbeiten Eingaben der Nutzer:innen (Antworten, Namen, Texte, Einstellungen) ausschließlich lokal im Browser. Es werden keine Cookies zu Tracking-Zwecken gesetzt, keine Analyse- oder Tracking-Tools eingesetzt und keine Eingaben an Server der Tool-Betreiber übertragen.
+
+### Lokale Speicherung (localStorage)
+
+Einige Tools speichern Lernfortschritt, Highscores, Filtereinstellungen oder Tageshistorie lokal im Browser des Nutzers (sog. localStorage). Diese Speicherung ist unbedingt erforderlich, damit die Tools ihren Zweck erfüllen können (z. B. Wiedererkennen des persönlichen Lernfortschritts beim erneuten Öffnen). Sie fällt unter die Ausnahme nach § 25 Abs. 2 TDDDG und benötigt daher keine Einwilligung. Eine Übermittlung an Server findet nicht statt. Nutzer:innen können den Browser-Speicher jederzeit über die Einstellungen ihres Browsers löschen.
+
+### Hosting auf GitHub Pages
+
+Die Seiten werden über GitHub Pages (GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA) ausgeliefert. Beim Aufruf können technisch bedingt Daten (z. B. IP-Adresse, Browsertyp, Zeitpunkt des Zugriffs) in Server-Logs von GitHub verarbeitet werden. Auf Umfang und Verwendung dieser Logs hat der Anbieter dieser Inhalte keinen Einfluss. Einzelheiten finden sich in der Datenschutzerklärung von GitHub: <https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement>
+
+---
+
+## Streitbeilegung
+
+Wir sind nicht verpflichtet und nicht bereit, an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+
+Hinweis auf die EU-Online-Streitbeilegungsplattform gemäß Art. 14 Abs. 1 ODR-VO: <https://ec.europa.eu/consumers/odr/>
