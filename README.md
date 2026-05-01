@@ -53,6 +53,10 @@ Einige Tools speichern Lernfortschritt, Highscores, Filtereinstellungen oder Tag
 
 Die Seiten werden über GitHub Pages (GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA) ausgeliefert. Beim Aufruf können technisch bedingt Daten (z. B. IP-Adresse, Browsertyp, Zeitpunkt des Zugriffs) in Server-Logs von GitHub verarbeitet werden. Auf Umfang und Verwendung dieser Logs hat der Anbieter dieser Inhalte keinen Einfluss. Einzelheiten finden sich in der Datenschutzerklärung von GitHub: <https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement>
 
+### Sprachausgabe (Aussprache-Funktion)
+
+Einige Tools bieten eine optionale Aussprache-Funktion, bei der einzelne Wörter über die System-Sprachausgabe (Web Speech API) vorgelesen werden. Bei aktivierter Aussprache wird der angezeigte Text vom Browser an die System-Sprachausgabe übergeben — auf manchen Geräten ist das ein Cloud-Service des jeweiligen Betriebssystem-Herstellers (z. B. Apple, Google, Microsoft). Der Anbieter dieser Inhalte hat darauf keinen Einfluss. Die Funktion lässt sich in den Einstellungen der jeweiligen App jederzeit deaktivieren.
+
 ---
 
 ## Streitbeilegung
