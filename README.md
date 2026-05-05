@@ -25,7 +25,7 @@ Die auf diesen Seiten bereitgestellten Inhalte wurden mit größter Sorgfalt ers
 
 **Hinweis zum Nutzungszweck:** Die hier veröffentlichten Inhalte und Lernwerkzeuge dienen ausschließlich Lern- und Übungszwecken im Rahmen der Pflegeausbildung. Sie ersetzen keine fachliche Beurteilung, keine ärztliche oder pflegerische Entscheidung und keine aktuelle Fachliteratur. Für die Anwendung der Inhalte in der beruflichen Praxis oder am Patienten wird keine Haftung übernommen.
 
-**Besonderer Hinweis für Berechnungs-Tools:** Die hier angebotenen Rechner (z. B. Infusionsrechner, BMI & Tagesbedarf) liefern Lern-Ergebnisse, keine medizinisch verbindlichen Werte. Berechnete Tropfenraten, Laufzeiten, Volumen oder Energiebedarfe dürfen nicht ohne unabhängige Prüfung zur Verabreichung von Medikamenten, Infusionen oder Ernährungsplänen verwendet werden. Im Klinikalltag gelten ausschließlich die ärztliche Anordnung, validierte Geräte (Infusionspumpen, Bilanzierungssysteme) und der Hausstandard der jeweiligen Einrichtung.
+**Besonderer Hinweis für Berechnungs-Tools:** Die hier angebotenen Rechner (Infusionsrechner, BMI & Tagesbedarf, Pflegegrad-Rechner) liefern Lern-Ergebnisse, keine medizinisch oder sozialrechtlich verbindlichen Werte. Berechnete Tropfenraten, Laufzeiten, Volumen, Energiebedarfe oder Pflegegrade dürfen nicht ohne unabhängige Prüfung als Grundlage für die Verabreichung von Medikamenten, Infusionen, Ernährungsplänen oder für die Beantragung von Pflegeleistungen verwendet werden. Im Klinikalltag gelten ausschließlich die ärztliche Anordnung, validierte Geräte (Infusionspumpen, Bilanzierungssysteme) und der Hausstandard der jeweiligen Einrichtung. Die offizielle Pflegegrad-Begutachtung erfolgt ausschließlich durch den Medizinischen Dienst (MD) oder MEDICPROOF; angezeigte Pflegegeld-Beträge sind Richtwerte (Stand 2025) nach § 37 SGB XI.
 
 ### Haftung für Links
 
@@ -49,7 +49,7 @@ Die hier verlinkten Tools verarbeiten Eingaben der Nutzer:innen (Antworten, Name
 
 ### Lokale Speicherung (localStorage)
 
-Einige Tools speichern Lernfortschritt, Highscores, Filtereinstellungen oder Tageshistorie lokal im Browser des Nutzers (sog. localStorage). Diese Speicherung ist unbedingt erforderlich, damit die Tools ihren Zweck erfüllen können (z. B. Wiedererkennen des persönlichen Lernfortschritts beim erneuten Öffnen). Sie fällt unter die Ausnahme nach § 25 Abs. 2 TDDDG und benötigt daher keine Einwilligung. Eine Übermittlung an Server findet nicht statt. Nutzer:innen können den Browser-Speicher jederzeit über die Einstellungen ihres Browsers löschen.
+Einige Tools speichern Lernfortschritt, Highscores, Filtereinstellungen, Bewertungs-Eingaben, Theme-Präferenz oder Tageshistorie lokal im Browser des Nutzers (sog. localStorage). Diese Speicherung ist unbedingt erforderlich, damit die Tools ihren Zweck erfüllen können (z. B. Wiedererkennen des persönlichen Lernfortschritts beim erneuten Öffnen). Sie fällt unter die Ausnahme nach § 25 Abs. 2 TDDDG und benötigt daher keine Einwilligung. Eine Übermittlung an Server findet nicht statt. Nutzer:innen können den Browser-Speicher jederzeit über die Einstellungen ihres Browsers löschen.
 
 ### Hosting auf GitHub Pages
 
