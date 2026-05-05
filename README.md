@@ -25,6 +25,8 @@ Die auf diesen Seiten bereitgestellten Inhalte wurden mit größter Sorgfalt ers
 
 **Hinweis zum Nutzungszweck:** Die hier veröffentlichten Inhalte und Lernwerkzeuge dienen ausschließlich Lern- und Übungszwecken im Rahmen der Pflegeausbildung. Sie ersetzen keine fachliche Beurteilung, keine ärztliche oder pflegerische Entscheidung und keine aktuelle Fachliteratur. Für die Anwendung der Inhalte in der beruflichen Praxis oder am Patienten wird keine Haftung übernommen.
 
+**Besonderer Hinweis für Berechnungs-Tools:** Die hier angebotenen Rechner (z. B. Infusionsrechner, BMI & Tagesbedarf) liefern Lern-Ergebnisse, keine medizinisch verbindlichen Werte. Berechnete Tropfenraten, Laufzeiten, Volumen oder Energiebedarfe dürfen nicht ohne unabhängige Prüfung zur Verabreichung von Medikamenten, Infusionen oder Ernährungsplänen verwendet werden. Im Klinikalltag gelten ausschließlich die ärztliche Anordnung, validierte Geräte (Infusionspumpen, Bilanzierungssysteme) und der Hausstandard der jeweiligen Einrichtung.
+
 ### Haftung für Links
 
 Diese Seiten enthalten unter Umständen Links zu externen Websites Dritter, auf deren Inhalte kein Einfluss besteht. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber verantwortlich. Zum Zeitpunkt der Verlinkung wurden die verlinkten Seiten auf mögliche Rechtsverstöße überprüft; rechtswidrige Inhalte waren nicht erkennbar. Bei Bekanntwerden von Rechtsverletzungen werden entsprechende Links umgehend entfernt.
