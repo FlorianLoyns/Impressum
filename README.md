@@ -9,7 +9,7 @@ Emsdettener Straße 10\
 
 ## Kontakt
 
-E-Mail: impressum.loyns@posteo.de
+E-Mail: c-8347@posteo.de
 
 ## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
 
