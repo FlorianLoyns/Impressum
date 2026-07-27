@@ -37,7 +37,14 @@ Diese Seiten enthalten unter Umständen Links zu externen Websites Dritter, auf 
 
 ## Urheberrecht und Lizenz
 
-Die auf diesen Seiten veröffentlichten Inhalte stehen – soweit nicht anders gekennzeichnet – unter einer Creative-Commons-Lizenz (CC BY-NC-SA 4.0). Das bedeutet: Die Inhalte dürfen unter Namensnennung und zu nicht-kommerziellen Zwecken frei genutzt, geteilt und bearbeitet werden. Bearbeitungen müssen unter denselben Bedingungen weitergegeben werden. Details zur Lizenz: <https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de>
+Die auf diesen Seiten veröffentlichten Inhalte und die hier verlinkten Werkzeuge sind – soweit nicht anders gekennzeichnet – geteilt lizenziert:
+
+- **Quelltext** unter der MIT-Lizenz: <https://opensource.org/licenses/MIT>
+- **Didaktische und redaktionelle Inhalte** (Fall- und Aufgabentexte, Fragen, Erklärungen, Auswertungstexte, Vokabel- und Begriffslisten, eigene Grafiken) unter CC BY-SA 4.0: <https://creativecommons.org/licenses/by-sa/4.0/deed.de>
+
+Beides erlaubt Nutzung, Bearbeitung und Weitergabe, ausdrücklich auch im kommerziellen Kontext. Für die Inhalte gilt zusätzlich: Es ist eine Namensnennung erforderlich, und bearbeitete Fassungen müssen unter denselben Bedingungen weitergegeben werden.
+
+Maßgeblich ist immer die Lizenzangabe im jeweiligen Repository (`LICENSE` für den Quelltext, `LICENSE-CONTENT.md` für die Inhalte). Einzelne Projekte weichen davon ab: Die LaTeX-Vorlage APA7 steht als Bearbeitung einer fremden Vorlage weiterhin unter CC BY-NC-SA 4.0, die reveal.js-Plugins stehen vollständig unter der MIT-Lizenz.
 
 Inhalte Dritter sind als solche gekennzeichnet und unterliegen dem Urheberrecht des jeweiligen Urhebers.
 
